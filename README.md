@@ -44,7 +44,7 @@ des portefeuilles qui seront générés et évalués par le modèle mean-varianc
 • Date début : la date à partir de laquelle les données historiques des actifs financiers
 seront prises en compte dans l’optimisation de portefeuille.\
 • Date fin : correspond à la date à laquelle les données historiques des actifs financiers
-se terminent pour l’optimisation du portefeuille.\
+se terminent pour l’optimisation du portefeuille.
 ###  Étape 2 : statistique et choix de portefeuille
 Dans l’étape statistique et choix de portefeuille, l’interface présente les graphiques
 des prix et des statistiques effectués sur les données fournies. Cette section permet aux
@@ -82,7 +82,7 @@ modèle.\
 rapidement les différences de répartition des poids entre les modèles.\
 • Différents ratios de performance : ces ratios permettent aux utilisateurs de
 comparer les performances des différents modèles et de prendre des décisions sur la
-base de ces mesures.\
+base de ces mesures.
 ### Étape 4 : Backtesting
 Dans l’étape de backtesting, l’interface permet aux utilisateurs de tester les perfor-
 mances passées des différentes modèles d’optimisation. Cela leur permet d’évaluer la per-
