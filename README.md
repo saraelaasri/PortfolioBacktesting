@@ -17,7 +17,7 @@ efficace. \
 les technologies web standards telles que HTML, CSS . HTML sera utilisé pour la
 structure de la page, CSS pour la mise en forme et le style.\
 Dans l’interface, nous avons divisé le processus en quatre étapes principales. Voici un
-aperçu de chacune de ces étapes :\
+aperçu de chacune de ces étapes :
 ### Étape 1 : les données d’entrée
 Cette première étape est dédiée à la saisie des informations nécessaires pour effectuer
 les calculs.
