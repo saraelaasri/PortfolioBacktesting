@@ -6,7 +6,7 @@ investissements. Il leur permet de calculer les différents poids de leurs porte
 utilisant trois modèles différents, avec la possibilité de paramétrer ces modèles selon leurs
 propres préférences.
 Les technologies utilisées sont :
-• Python : pour la mise en œuvre des modèles d’optimisation et des calculs associés.
+• Python : pour la mise en œuvre des modèles d’optimisation et des calculs associés. 
 • Flask : Nous avons utilisé Flask comme framework de développement web pour le
 côté backend de notre application. Flask est un framework léger et flexible qui nous
 permettra de créer des API robustes pour gérer les requêtes et les interactions avec
